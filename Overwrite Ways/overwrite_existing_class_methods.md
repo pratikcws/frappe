@@ -9,7 +9,7 @@ override_doctype_class = {
 	'ToDo': 'test_app.overrides.CustomToDo'
 }
 
-test_app/overrides.py
+<b>test_app/overrides.py</b>
 
 import frappe
 from frappe.desk.doctype.todo.todo import ToDo
